@@ -1,0 +1,9 @@
+Easy:
+14. Longest Prefix
+26. Remove Duplicates in sorted array
+
+Medium:
+11: Container with most water
+
+Hard:
+41. First Missing Postive
