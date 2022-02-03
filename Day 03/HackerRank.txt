@@ -1,0 +1,9 @@
+ Solved HackerRank Challenges
+
+Easy
+ 1. Class
+ 2. Classes and Objects
+ 3. Box It!
+
+ Medium
+ 1. Inherited Code
