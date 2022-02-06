@@ -1,0 +1,7 @@
+Easy
+344. Reverse String
+
+Medium
+80. Remove Duplicates from Sorted Array II
+50. Pow(x, n)
+486. Predict the Winner

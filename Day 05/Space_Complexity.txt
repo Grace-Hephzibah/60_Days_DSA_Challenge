@@ -1,0 +1,21 @@
+## Introduction
+https://www.geeksforgeeks.org/g-fact-86/
+
+## Gist Understanding
+1. O(1)
+  – constant complexity – takes the same amount of space regardless of the input size
+
+2. O(log n)
+  – logarithmic complexity – takes space proportional to the log of the input size
+
+3. O(n)
+  – linear complexity – takes space directly proportional to the input size
+
+4. O(n log n)
+  – log-linear/quasilinear complexity – also called “linearithmic”,
+  its space complexity grows proportionally to the input size and a logarithmic factor
+
+5. O(n^2)
+  – square/polynomial complexity – space complexity grows proportionally to the square of the input size
+
+Taken from https://www.baeldung.com/cs/space-complexity
