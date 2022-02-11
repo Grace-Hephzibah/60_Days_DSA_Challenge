@@ -1,0 +1,16 @@
+Easy
+746. Min Cost Climbing Stairs
+1929. Concatenation of Array
+1920. Build Array from Permutation
+1480. Running Sum of 1d Array
+2011. Final Value of Variable After Performing Operations
+2114. Maximum Number of Words Found in Sentences
+1470. Shuffle the Array
+1512. Number of Good Pairs
+1431. Kids With the Greatest Number of Candies
+1528. Shuffle String
+1720. Decode XORed Array
+1389. Create Target Array in the Given Order
+1773. Count Items Matching a Rule
+2006. Count Number of Pairs With Absolute Difference K
+1662. Check If Two String Arrays are Equivalent
