@@ -1,0 +1,4 @@
+Easy
+1441. Build an Array With Stack Operations
+1614. Maximum Nesting Depth of the Parentheses
+1021. Remove Outermost Parentheses
