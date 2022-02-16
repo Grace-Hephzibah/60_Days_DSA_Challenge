@@ -1,0 +1,4 @@
+Easy
+20. Valid Parentheses
+155. Min Stack
+1047. Remove All Adjacent Duplicates In String
