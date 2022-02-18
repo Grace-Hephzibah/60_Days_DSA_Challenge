@@ -1,0 +1,17 @@
+Easy
+1475. Final Prices With a Special Discount in a Shop
+
+Medium
+1381. Design a Stack With Increment Operation
+921. Minimum Add to Make Parentheses Valid
+1472. Design Browser History
+
+Stack STL
+The functions associated with stack are:
+empty() – Returns whether the stack is empty – Time Complexity : O(1)
+size() – Returns the size of the stack – Time Complexity : O(1)
+top() – Returns a reference to the top most element of the stack – Time Complexity : O(1)
+push(g) – Adds the element ‘g’ at the top of the stack – Time Complexity : O(1)
+pop() – Deletes the top most element of the stack – Time Complexity : O(1)
+
+Thanks to Geeks for Geeks https://www.geeksforgeeks.org/stack-in-cpp-stl/

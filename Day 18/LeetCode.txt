@@ -1,0 +1,7 @@
+Easy
+225. Implement Stack using Queues
+387. First Unique Character in a String
+232. Implement Queue using Stacks2073. Time Needed to Buy Tickets
+2073. Time Needed to Buy Tickets
+1700. Number of Students Unable to Eat Lunch
+933. Number of Recent Calls
