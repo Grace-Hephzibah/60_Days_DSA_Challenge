@@ -1,0 +1,3 @@
+Easy
+1365. How Many Numbers Are Smaller Than the Current Number
+2160. Minimum Sum of Four Digit Number After Splitting Digits
