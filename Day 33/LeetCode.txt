@@ -1,0 +1,8 @@
+Easy
+1603. Design Parking System
+1281. Subtract the Product and Sum of Digits of an Integer
+1342. Number of Steps to Reduce a Number to Zero
+1678. Goal Parser Interpretation
+
+Medium
+740. Delete and Earn
